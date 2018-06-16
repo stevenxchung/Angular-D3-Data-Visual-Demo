@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
+Based on Liran Sharir's [Medium example demo](https://lsharir.github.io/angular-d3-graph-example/). This app shows how you can use Angular with D3 to visualize data in an interactive way.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
